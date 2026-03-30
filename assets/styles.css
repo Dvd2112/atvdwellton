@@ -1,0 +1,14 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.simple-card {
+    border: 0;
+    border-radius: 12px;
+}
+
+.list-group-item small {
+    display: block;
+    color: #6c757d;
+    margin-top: 4px;
+}
